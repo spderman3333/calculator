@@ -6,17 +6,6 @@ import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.stage.Stage;
 
-/*
-     CIST-004A1-54249 Summer 2025
-     HW 15 Week 6 Problem 1 "Calculator"
-     Description: Displays a GUI based calculator
-     Input: None.
-     Output: 3 randomly drawn cards.
-     Student: Stefan Dikov
-     Known bugs: None.
-     Date: 7/22/2025
-*/
-
 
 public class CalculatorController {
 

@@ -8,6 +8,17 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
+/*
+     CIST-004A1-54249 Summer 2025
+     HW 15 Week 6 Problem 1 "Calculator"
+     Description: Displays a GUI based calculator
+     Input: 2 doubles, and a selection of the operation from a dropdown menu.
+     Output: The solution to your problem
+     Student: Stefan Dikov
+     Known bugs: None.
+     Date: 7/24/2025
+*/
+
 public class CalculatorApplication extends Application {
 	@Override
 	public void start(Stage stage) throws IOException {
